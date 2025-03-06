@@ -14,6 +14,7 @@ def presist(x):
 
 
 
+print('hello')
 
 x = eval(input())
 print(presist(x))
